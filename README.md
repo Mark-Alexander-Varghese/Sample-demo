@@ -1,3 +1,3 @@
 # Sample-demo
 Introduction to github
-Author - Mark Alexander Varghese
+Author - Mark Alexander Varghese(STIST)
